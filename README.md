@@ -1,5 +1,8 @@
 # Open Weather Map
 
+<img width="350" src="https://cloud.githubusercontent.com/assets/4203845/22414759/ab1de7d6-e6f4-11e6-9972-930a0cb9225e.png">
+
+
 ## Run
 
 - Clone the repository
